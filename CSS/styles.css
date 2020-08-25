@@ -1,0 +1,30 @@
+body{
+  background-color: #cff8ff;
+}
+
+hr{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 10px;
+  border-color: #2482b5;
+}
+
+h1{
+  color: #ff2200;
+  font-family: Snell Roundhand;
+  font-size: 5em;
+}
+
+h2{
+  color: #ff2200;
+  font-family: Chalkboard SE;
+}
+
+h3{
+  color: #0088ff;
+}
+
+p{
+  font-family: Chalkboard;
+  color: #084212;
+}
