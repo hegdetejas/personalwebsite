@@ -10,13 +10,13 @@ h1{
   margin-bottom: 20px;
   font-family: 'Permanent Marker', cursive;
   color: white;
-  font-size: 5em;
+  font-size: 5.6vw;
 }
 
 p{
   margin: 0;
   color: white;
-  font-size: 1.5em;
+  font-size: 1.68vw;
   font-family: Arial Rounded MT;
   font-weight: normal;
 }
@@ -43,7 +43,7 @@ p{
 .page-link-education{
   color: white;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   text-decoration: none;
   margin-right: 40px;
 }
@@ -55,7 +55,7 @@ p{
 .page-link-education-edu{
   color: #9c9c9c;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   text-decoration: none;
   margin-right: 40px;
 }
@@ -63,7 +63,7 @@ p{
 .page-link-workexperience{
   color: white;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   text-decoration: none;
   margin-right: 220px;
 }
@@ -75,7 +75,7 @@ p{
 .page-link-workexperience-workex{
   color: #9c9c9c;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   text-decoration: none;
   margin-right: 220px;
 }
@@ -107,6 +107,7 @@ p{
 
 .mountain{
   padding-top: 3.5%;
+  width: 41.5%;
 }
 
 .profile-image{
@@ -118,13 +119,13 @@ p{
 .intro-heading{
   font-family: 'Londrina Solid', cursive;
   color: #707bff;
-  font-size: 1.9em;
+  font-size: 2.128vw;
 }
 
 .intro{
   color: black;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   width: 30%;
   line-height: 200%;
   margin: 0.1% auto 6%;
@@ -133,7 +134,7 @@ p{
 .intro-education{
   color: black;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   width: 31%;
   line-height: 200%;
   margin: 0.1% auto 6%;
@@ -145,7 +146,7 @@ p{
   display: inline-block;
   margin: 58px 30px 30px 30px;
   font-family: 'Nunito', sans-serif;
-  font-size: 0.9em;
+  font-size: 1.6vw;
   text-decoration: none;
 }
 
@@ -209,7 +210,7 @@ p{
 
 .company{
   font-family: 'Syncopate', sans-serif;
-  font-size: 1.8em;
+  font-size: 2.016vw;
   margin-bottom: 0.5%;
   color: #c7c7c7;
 }
@@ -217,14 +218,14 @@ p{
 .job-title{
   font-family: 'Nunito', sans-serif;
   color: #c7c7c7;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   margin-bottom: 1.5%;
 }
 
 .job-description{
   color: #c7c7c7;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   width: 51%;
   line-height: 200%;
   margin: 0.1% auto auto;
@@ -252,7 +253,7 @@ p{
 
 .university{
   font-family: 'Syncopate', sans-serif;
-  font-size: 1.8em;
+  font-size: 2.016vw;
   padding-top: 45px;
   padding-bottom: 20px;
   color: #002603;
@@ -260,7 +261,7 @@ p{
 
 .university-kcl{
   font-family: 'Syncopate', sans-serif;
-  font-size: 1.8em;
+  font-size: 2.016vw;
   padding-top: 45px;
   padding-bottom: 20px;
   color: #002603;
@@ -271,14 +272,14 @@ p{
 .years{
   font-family: 'Nunito', sans-serif;
   color: #002603;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   margin: 1.8% auto;
 }
 
 .university-description{
   color: #002603;
   font-family: 'Nunito', sans-serif;
-  font-size: 1.2em;
+  font-size: 1.344vw;
   width: 49%;
   line-height: 200%;
   margin: auto auto;
@@ -292,7 +293,7 @@ p{
   border-radius: 6px;
   font-family: 'Nunito', sans-serif;
   color: #ffffff;
-  font-size: 1em;
+  font-size: 1.12vw;
   background: #fa9e73;
   padding: 15px 25px;
   text-decoration: none;
@@ -310,7 +311,7 @@ p{
   border-radius: 6px;
   font-family: 'Nunito', sans-serif;
   color: #ffffff;
-  font-size: 1em;
+  font-size: 1.12vw;
   background: #9c020f;
   padding: 15px 25px;
   text-decoration: none;
@@ -328,7 +329,7 @@ p{
   border-radius: 6px;
   font-family: 'Nunito', sans-serif;
   color: #ffffff;
-  font-size: 1em;
+  font-size: 1.12vw;
   background: #f59700;
   padding: 15px 25px;
   text-decoration: none;
@@ -346,7 +347,7 @@ p{
   border-radius: 6px;
   font-family: 'Nunito', sans-serif;
   color: #ffffff;
-  font-size: 1em;
+  font-size: 1.12vw;
   background: #020357;
   padding: 15px 25px;
   text-decoration: none;
@@ -363,7 +364,7 @@ p{
 #copyright{
   color: white;
   font-family: Times New Roman;
-  font-size: 0.9em;
+  font-size: 1.008vw;
   padding-top: 10px;
 }
 
@@ -371,7 +372,7 @@ p{
   font-family: 'Permanent Marker', cursive;
   color: white;
   display: inline-box;
-  font-size: 3.5em;
+  font-size: 3.92vw;
 }
 
 #cloud-workex1{
