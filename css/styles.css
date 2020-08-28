@@ -1,0 +1,394 @@
+/****************************** TAG SELECTORS *****************************/
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  padding-top: 5%;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+  font-size: 5em;
+}
+
+p{
+  margin: 0;
+  color: white;
+  font-size: 1.5em;
+  font-family: Arial Rounded MT;
+  font-weight: normal;
+}
+
+
+
+
+/****************************** CLASS SELECTORS *****************************/
+.header{
+  background-color: #000436;
+  position: relative;
+  height: 50px;
+  padding-top: 60px;
+  text-align: right;
+}
+
+.home-button{
+  position: absolute;
+  top: 30%;
+  left: 17%;
+  width: 5%;
+}
+
+.page-link-education{
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  text-decoration: none;
+  margin-right: 40px;
+}
+
+.page-link-education:hover{
+  color: #9c9c9c;
+}
+
+.page-link-education-edu{
+  color: #9c9c9c;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  text-decoration: none;
+  margin-right: 40px;
+}
+
+.page-link-workexperience{
+  color: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  text-decoration: none;
+  margin-right: 220px;
+}
+
+.page-link-workexperience:hover{
+  color: #9c9c9c;
+}
+
+.page-link-workexperience-workex{
+  color: #9c9c9c;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  text-decoration: none;
+  margin-right: 220px;
+}
+
+.top-container{
+  background-color: #000436;
+  margin: 0;
+  position: relative;
+  padding-top: 32px;
+}
+
+
+.bottom-container{
+  background-color: #000436;
+  padding-bottom: 3%;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 9%;
+  right: 21%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 35%;
+  left: 19%;
+}
+
+.mountain{
+  padding-top: 3.5%;
+}
+
+.profile-image{
+  height: 13%;
+  width: 13%;
+  padding-top: 6.5%;
+}
+
+.intro-heading{
+  font-family: 'Londrina Solid', cursive;
+  color: #707bff;
+  font-size: 1.9em;
+}
+
+.intro{
+  color: black;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  width: 30%;
+  line-height: 200%;
+  margin: 0.1% auto 6%;
+}
+
+.intro-education{
+  color: black;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  width: 31%;
+  line-height: 200%;
+  margin: 0.1% auto 6%;
+}
+
+
+.footer-links{
+  color: white;
+  display: inline-block;
+  margin: 58px 30px 30px 30px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.footer-links:hover{
+  color: #9c9c9c;
+}
+
+.footer-links-p{
+  display: inline-block;
+}
+
+.linkedin-image{
+  width: 5%;
+  margin-top: 4%;
+  margin-bottom: 3%;
+}
+
+.uvrobots-job{
+  background-color: #053600;
+  padding-bottom: 90px;
+}
+
+.kcl-job{
+  background-color: #2e004d;
+  padding-bottom: 90px;
+}
+
+.safra-job{
+  background-color: #038079;
+  padding-bottom: 90px;
+}
+
+.viavan-job{
+  background-color: #6b000b;
+  padding-bottom: 90px;
+}
+
+.uvrobots-img{
+  width: 35%;
+  border-radius: 5%;
+  margin: 5% auto 1%;
+}
+
+.kcl-img{
+  width: 25%;
+  border-radius: 5%;
+  margin: 5% auto 1%;
+}
+
+.safra-img{
+  width: 25%;
+  border-radius: 5%;
+  margin: 4% auto 1%;
+}
+
+.viavan-img{
+  width: 35%;
+  border-radius: 5%;
+  margin: 4% auto 1%;
+}
+
+.company{
+  font-family: 'Syncopate', sans-serif;
+  font-size: 1.8em;
+  margin-bottom: 0.5%;
+  color: #c7c7c7;
+}
+
+.job-title{
+  font-family: 'Nunito', sans-serif;
+  color: #c7c7c7;
+  font-size: 1.2em;
+  margin-bottom: 1.5%;
+}
+
+.job-description{
+  color: #c7c7c7;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  width: 51%;
+  line-height: 200%;
+  margin: 0.1% auto auto;
+  padding-bottom: 3.7%;
+}
+
+.uchicago{
+  background-color: #a3fffc;
+}
+
+.kcl{
+  background-color: #ffb5fb;
+}
+
+.uchicago-img{
+  border-radius: 5%;
+  width: 35%;
+}
+
+.kcl-campus-img{
+  border-radius: 5%;
+  width: 35%;
+  margin: 0 auto;
+}
+
+.university{
+  font-family: 'Syncopate', sans-serif;
+  font-size: 1.8em;
+  padding-top: 45px;
+  padding-bottom: 20px;
+  color: #002603;
+}
+
+.university-kcl{
+  font-family: 'Syncopate', sans-serif;
+  font-size: 1.8em;
+  padding-top: 45px;
+  padding-bottom: 20px;
+  color: #002603;
+  margin-top: 0;
+  margin-bottom: 35px;
+}
+
+.years{
+  font-family: 'Nunito', sans-serif;
+  color: #002603;
+  font-size: 1.2em;
+  margin: 1.8% auto;
+}
+
+.university-description{
+  color: #002603;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.2em;
+  width: 49%;
+  line-height: 200%;
+  margin: auto auto;
+  padding-bottom: 3.7%;
+}
+
+
+.btn-safra {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 1em;
+  background: #fa9e73;
+  padding: 15px 25px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.btn-safra:hover {
+  background: #ff7d40;
+  text-decoration: none;
+}
+
+.btn-uv {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 1em;
+  background: #9c020f;
+  padding: 15px 25px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.btn-uv:hover {
+  background: #69010a;
+  text-decoration: none;
+}
+
+.btn-kcl {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 1em;
+  background: #f59700;
+  padding: 15px 25px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.btn-kcl:hover {
+  background: #b36f02;
+  text-decoration: none;
+}
+
+.btn-viavan {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: 'Nunito', sans-serif;
+  color: #ffffff;
+  font-size: 1em;
+  background: #020357;
+  padding: 15px 25px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.btn-viavan:hover {
+  background: #010230;
+  text-decoration: none;
+}
+
+
+/****************************** ID SELECTORS *****************************/
+#copyright{
+  color: white;
+  font-family: Times New Roman;
+  font-size: 0.9em;
+  padding-top: 10px;
+}
+
+#work-experience-title{
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+  display: inline-box;
+  font-size: 3.5em;
+}
+
+#cloud-workex1{
+  position: absolute;
+  top: 65%;
+  left: 15%;
+}
+
+#cloud-workex2{
+  position: absolute;
+  top: 65%;
+  right: 15%;
+}
+
+#top-container-workex{
+  background-color: #000436;
+  margin: 0;
+  position: relative;
+  padding-top: 200px;
+}
